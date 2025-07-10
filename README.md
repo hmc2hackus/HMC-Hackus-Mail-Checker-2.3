@@ -13,4 +13,4 @@
 - Configuration editor for IMAP and POP3
 
 ## Download in releases
-[Download](https://github.com/hmc2hackus/HMC-Hackus-Mail-Checker-2.3/releases/tag/Next)
+[Download](https://github.com/hmc2hackus/HMC-Hackus-Mail-Checker-2.3/releases/tag/Release)
